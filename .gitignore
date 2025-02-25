@@ -1,0 +1,7 @@
+new-env/
+*.dylib
+*.so
+*.dll
+__pycache__/
+*.ipynb_checkpoints/
+
